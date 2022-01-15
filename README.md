@@ -1,2 +1,2 @@
 # boj
-beakjon online judge
+baekjon online judge
